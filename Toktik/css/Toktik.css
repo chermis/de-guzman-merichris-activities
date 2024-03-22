@@ -1,0 +1,237 @@
+
+.Username {
+    position: relative;
+    top: -550px;
+    background-color: purple;
+    color: burlywood;
+    margin: 50%;
+    padding: 10px;
+    border: 3px solid lightpink;
+    height: 400px;
+    width: 400px;
+}
+
+.Username1 {
+    position: relative;
+    top: -1150px;
+    background-color: purple;
+    color: burlywood;
+    margin: 50%;
+    padding: 10px;
+    border: 3px solid lightpink;
+    height: 400px;
+    width: 400px;
+}
+
+.Username2 {
+    position: relative;
+    top: -1750px;
+    background-color: purple;
+    color: burlywood;
+    margin: 50%;
+    padding: 10px;
+    border: 3px solid lightpink;
+    height: 400px;
+    width: 400px;
+}
+
+.Username3 {
+    position: relative;
+    top: -2350px ;
+    background-color: purple;
+    color: burlywood;
+    margin: 50%;
+    padding: 10px;
+    border: 3px solid lightpink;
+    height: 400px;
+    width: 400px;
+}
+
+.Username4 {
+    position: relative;
+    top: -2950px;
+    background-color: purple;
+    color: burlywood;
+    margin: 50%;
+    padding: 10px;
+    border: 3px solid lightpink;
+    height: 400px;
+    width: 400px;
+}
+
+
+.Username5 {
+    position: relative;
+    top:-3550px;
+    background-color: purple;
+    color: burlywood;
+    margin: 50%;
+    padding: 10px;
+    border: 3px solid lightpink;
+    height: 400px;
+    width: 400px;
+}
+
+
+.Username6 {
+    position: relative;
+    top: -4150px;
+    background-color: purple;
+    color: burlywood;
+    margin: 50%;
+    padding: 10px;
+    border: 3px solid lightpink;
+    height: 400px;
+    width: 400px;
+}
+
+
+
+
+.Username7 {
+    position: relative;
+    top: -4750px;
+    background-color: purple;
+    color: burlywood;
+    margin: 50%;
+    padding: 10px;
+    border: 3px solid lightpink;
+    height: 400px;
+    width: 400px;
+}
+
+.Username8 {
+    position: relative;
+    top: -5350px;
+    background-color: purple;
+    color: burlywood;
+    margin: 50%;
+    padding: 10px;
+    border: 3px solid lightpink;
+    height: 400px;
+    width: 400px;
+}
+
+.Username9 {
+    position: relative;
+    top: -5950px;
+    background-color: purple;
+    color: burlywood;
+    margin: 50%;
+    padding: 10px;
+    border: 3px solid lightpink;
+    height: 400px;
+    width: 400px;
+}
+
+.Username10 {
+    position: relative;
+    top: -6550px ;
+    background-color: purple;
+    color: burlywood;
+    margin: 50%;
+    padding: 10px;
+    border: 3px solid lightpink;
+    height: 400px;
+    width: 400px;
+}
+
+
+
+
+.Toktik {
+        position: fixed; 
+        top: 0;
+        left: 0;
+        background-color: hotpink;
+        color: lightgoldenrodyellow ;
+        width: 100%;
+        padding: 10px;
+        
+
+}
+
+.ForYou {
+    position: fixed; 
+    top: 13.5%;
+    left: 0;
+    background-color: lightpink;
+    color: darkmagenta;
+    width: 400px;
+    padding: 10px;
+    border: 3px solid lightslategray;
+}
+
+.Following {
+    position: fixed; 
+    top: 26.5%;
+    left: 0;
+    background-color: lightpink;
+    color: darkmagenta;
+    width: 400px;
+    padding: 10px;
+    border: 3px solid lightslategray;
+}
+
+.Friends {
+    position: fixed; 
+    top: 39.5%;
+    left: 0;
+    background-color: lightpink;
+    color: darkmagenta;
+    width: 400px;
+    padding: 10px;
+    border: 3px solid lightslategray;
+}
+
+.Explore {
+    position: fixed; 
+    top: 52.5%;
+    left: 0;
+    background-color: lightpink;
+    color: darkmagenta;
+    width: 400px;
+    padding: 10px;
+    border: 3px solid lightslategray;
+}
+
+.Live {
+    position: fixed; 
+    top: 65.5%;
+    left: 0;
+    background-color: lightpink;
+    color: darkmagenta;
+    width: 400px;
+    padding: 10px;
+    border: 3px solid lightslategray;
+}
+
+.Upload {
+    position: fixed; 
+    top: 9px;
+    left: 83.9%;
+    background-color: pink;
+    color: palevioletred;
+    width: -30px;
+    padding: -1px;
+    border: 2px solid lightslategray;
+}
+
+
+.LogIn {
+    position: fixed; 
+    top: 9px;
+    left: 1200px;
+    background-color: pink;
+    color: palevioletred;
+    width: -30px;
+    padding: -1px;
+    border: 2px solid lightslategray;
+}
+
+
+
+
+
+
+

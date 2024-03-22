@@ -1,0 +1,58 @@
+.static {
+    position: static;
+    top: 60px;
+    background-color: chocolate;
+    color: skyblue;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid #67c6e3;
+}
+
+
+.relative {
+    position: relative; 
+    left: 50px;
+    top: 80px;
+    background-color: chocolate;
+    color: skyblue;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid #67c6e3;
+}
+
+.absolute {
+    position: absolute; 
+    top: 100%;
+    left: 10%;
+    width: auto;
+    height: auto;
+    background-color: chocolate;
+    color: skyblue;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid #67c6e3;
+}
+
+.fixed {
+    position: fixed; 
+    top: 0;
+    left: 1;
+    background-color: chocolate;
+    color: skyblue;
+    width: 100%;
+    padding: 10px;
+}
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky; 
+    top: 300px;
+    padding: 5px;
+    width: auto;
+    height: auto;
+    background-color: chocolate;
+    color: skyblue;
+    border: 5px solid #67c6e3;
+    padding: 10px;
+}
+
