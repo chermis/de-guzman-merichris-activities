@@ -1,0 +1,42 @@
+body{
+    background-color: purple (223, 186, 108, 0.89);
+    color:rgb(0, 0, 0);
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+h1{
+    color: rgb(111, 168, 165);
+    background-color: lightpink (1, 26, 26);
+    align-items:center
+}
+
+
+form{
+    background-color: hotpink;
+    border: raduis 10px;
+    padding: 20px;
+    box-shadow:inset;
+    width: 300px;
+    text-align: center;
+    justify-content: center;
+    margin: 130px;
+}
+
+
+label{
+    background-color: rgb(192, 190, 190);
+    color: purple (14, 13, 3);
+    font-size: 30px;
+}
+
+    #Userlabel{
+        font-style: italic;
+    }
+
+    #Passlabel{
+        font-style:italic;
+    }
+   
